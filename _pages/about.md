@@ -2,24 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: asebasti [at] andrew [dot] cmu [dot] edu 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: amal_edit.jpeg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+cv_pdf: Amal_Curriculum_Vitae.pdf
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD student in the department of Mechanical Engineering at Carnegie Mellon Univeristy. I am advised by [Venkat Viswanathan](https://www.andrew.cmu.edu/user/venkatv/index.html#). I have a Bachelors and Masters in Aerospace Engineering from IIT Bombay, where I was advised by [Prabhu Ramachandran](https://www.aero.iitb.ac.in/~prabhu/). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I currently work on using scientific machine learning to accelerate multiphysics simulations. In the past I've worked on modelling surface tension using Smoothed Particle Hydrodynamics.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My interests broadly lie in the fields of scientific computing, machine learning, PDE solving and fluid dynamics.
+
+<h1 class="post-title"> CV <a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float"><i class="fas fa-file-pdf"></i></a></h1>
+
