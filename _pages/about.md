@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: asebasti [at] andrew [dot] cmu [dot] edu 
+subtitle: amalss [at] umich [dot] edu 
 
 profile:
   align: right
@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a PhD student in the department of Mechanical Engineering at Carnegie Mellon Univeristy. I am advised by [Venkat Viswanathan](https://www.andrew.cmu.edu/user/venkatv/index.html#). I have a Bachelors and Masters in Aerospace Engineering from IIT Bombay, where I was advised by [Prabhu Ramachandran](https://www.aero.iitb.ac.in/~prabhu/). 
+I am a PhD student in the department of Aerospace Engieering at the University of Michigan, Ann Arbor. I am advised by [Venkat Viswanathan](https://www.andrew.cmu.edu/user/venkatv/index.html#). I have a Bachelors and Masters in Aerospace Engineering from IIT Bombay, where I was advised by [Prabhu Ramachandran](https://www.aero.iitb.ac.in/~prabhu/). 
 
 I currently work on using scientific machine learning to accelerate multiphysics simulations. In the past I've worked on modelling surface tension in Smoothed Particle Hydrodynamics.
 
